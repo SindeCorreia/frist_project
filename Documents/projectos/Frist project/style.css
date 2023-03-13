@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: url(img/background.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin: 0px;
+}
+.header{
+    background-color:#30503A;
+    padding: 3px ;
+}
+.header-list{
+    list-style: none;
+
+}
+h2 {
+    color: #808080;
+}
+.header-list li{
+    display: inline-block;
+    padding: 50px 100px 50px 50px;
+}
+.header-list li a{
+    text-decoration: none;
+    color:#fff
+}
+.content{
+    display: inline-flex;
+    width: 100%;
+}
+.content-text{
+    width: 55%;
+    padding: 130px 30px 30px 30px;
+    color: #fff;
+    font-size: 25pt;
+}
+.content-img{
+    
+    width: 45%;
+    padding: 130px 50px 50px 50px;
+    text-align: center;
+
+}
+.foot{
+    list-style:none;
+}
+.content2{
+    background-color:#30503A;
+    display:inline-flex;
+    width:100%;
+}
+.content2-item{
+    width:50%;
+    color:#fff;
+    text-align: center;
+}
+.content2-item a{
+    text-decoration: none;
+    color: #fff;
+    padding: 40px;
+}
+.newstextup{
+    display:inline-flex;
+    color:#fff ;
+    font-size: 15pt;
+}
+.newstextdown{
+    display:inline-flex;
+    color:#fff ;
+    font-size: 15pt;
+}
+.newstext1{
+    width:50%;
+    padding: 20px;
+}
+.newstext2{
+    width:50%;
+    padding: 20px;
+}
+.newstext3{
+    width:50%;
+    padding: 20px;
+}
+.newstext4{
+    width:50%;
+    padding: 20px;
+}   
+.championship1{
+    display:inline-flex;
+    color:#fff ;
+    font-size: 15pt;
+    width:70%;
+    padding: 20px 20px 20px 90px;
+}
+.championship2{
+    display:inline-flex;
+    color:#fff ;
+    font-size: 15pt;
+    width:70%;
+    padding: 20px 20px 20px 90px;
+}
+.championship3{
+    display:inline-flex;
+    color:#fff ;
+    font-size: 15pt;
+    width:70%;
+    padding: 20px 20px 20px 90px;
+    
+}
+.videos{
+    width: 900px;
+    margin:200px 200px 200px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+tr{
+    color: #fff;
+}
+.flag{
+    width: 75px;
+    height:50px;
+}
+.picture{
+    width: 75px;
+    height:50px;
+}
+h1{
+    color: white;
+    padding: 70px;
+}
+.title_table{   
+    font-size: 20pt;    
+}
